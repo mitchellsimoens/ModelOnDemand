@@ -80,7 +80,7 @@ define a model. Here is an example JSON response that will make the reader execu
         ...
     }
 
-### Cacheing
+### Caching
 
 So now we know that Ext JS can accept metaData to create a new model as we want but the second requirement is we only
 want to load it once so we need some sort of way to selectively tell the server to return the meta and we also need to
